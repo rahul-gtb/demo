@@ -1,2 +1,6 @@
 adding a file
+<<<<<<< HEAD
 writing in master branch
+=======
+now in feature branch "feature-demo".
+>>>>>>> feature-demo
